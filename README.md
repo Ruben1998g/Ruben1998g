@@ -7,7 +7,7 @@
 - :keyboard: I’m a Full Stack web engineer with 7 years of experience building modern websites and web applications. I have a strong background in computer science, and my key strengths lie in JavaScript, Vue, Canvas, and CSS Animations. I specialize in integrating third-party APIs and developing cross-platform applications and websites using HTML 5 and CSS 3 both in their vanilla form and with pre-processors like LESS and SASS. I work with the Node.js platform, utilizing tools like Gulp and Webpack, and follow best practices with Git for version control. I also use a variety of frameworks and libraries in my work, which you can explore in more detail in the section below.
 - 🔭 I am currently studying neural networks and machine learning.
 - ⚡: <a href="https://mruben.ru" target="_blank">Website-portfolio</a> 
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](t.me/mruben98)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/mruben98)
 
 
 <br>
